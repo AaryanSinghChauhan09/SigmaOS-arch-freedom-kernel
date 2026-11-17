@@ -3,7 +3,7 @@ name = "SigmaOS-arch-freedom-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-freedom-kernel component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
